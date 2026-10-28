@@ -1,7 +1,7 @@
 # Lab-infra-ydays
 
 Infrastructure / MLOps
-Ton cœur de métier
+
 - Mettre en place les environnements d'exécution.
 - Automatiser les tests et les pipelines CI/CD.
 - Gérer les ressources GPU, les dépendances et les configurations.
