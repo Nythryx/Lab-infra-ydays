@@ -8,3 +8,11 @@ Infrastructure / MLOps
 - Sécuriser les accès et les secrets.
 - Automatiser la publication sur Hugging Face.
 - Assurer la traçabilité, la reproductibilité et la maintenance.
+
+## Stack et logiciel
+
+### Stack
+- Github
+
+### Logiciel
+- **Git** https://git-scm.com/install/windows
